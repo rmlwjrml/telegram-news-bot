@@ -10,7 +10,7 @@ from urllib.parse import urlparse
 
 # 설정
 kst = pytz.timezone('Asia/Seoul')
-TELEGRAM_TOKEN = "7440645018:AAG_yFBsdyaMmhK_He7lI3EBWggLK9wenXg"
+TELEGRAM_TOKEN = "7513053048:AAGhoPamVwZhGYqztK0huXWxg0FQ1W204fI"
 CHAT_ID = "5639589613"
 bot = Bot(token=TELEGRAM_TOKEN)
 
