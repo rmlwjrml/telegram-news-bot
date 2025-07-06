@@ -156,8 +156,7 @@ def fetch_and_filter_html_news():
                     continue
                 sent_titles.add(unique_key)
                 save_sent_title(site['name'], title)
-                bot.send_message(chat_id=CHAT_ID, text=f"[{title}]
-{link}")
+                bot.send_message(chat_id=CHAT_ID, text=f"[{title}]\n{link}")
         except Exception:
             continue
 
