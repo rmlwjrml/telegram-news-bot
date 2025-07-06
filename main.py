@@ -127,16 +127,6 @@ news_sites = [
     "http://rss.etnews.co.kr/Section023.xml",                     # 전자신문(전국뉴스)
     "https://rss.fnnews.com/rss/new/fn_realnews_all.xml",         # 파이낸셜뉴스(종합)
     "https://rss.edaily.co.kr/edaily_news.xml",                   # 이데일리(전체)
-    "https://www.newsis.com/RSS/sokbo.xml",                       # 뉴시스 속보
-    "https://www.newsis.com/RSS/politics.xml",                    # 뉴시스 정치
-    "https://www.newsis.com/RSS/international.xml",               # 뉴시스 국제
-    "https://www.newsis.com/RSS/economy.xml",                     # 뉴시스 경제
-    "https://www.newsis.com/RSS/bank.xml",                        # 뉴시스 금융
-    "https://www.newsis.com/RSS/industry.xml",                    # 뉴시스 산업
-    "https://www.newsis.com/RSS/society.xml",                     # 뉴시스 사회
-    "https://www.newsis.com/RSS/health.xml",                      # 뉴시스 바이오-IT
-    "https://www.newsis.com/RSS/met.xml",                         # 뉴시스 수도권
-    "https://www.newsis.com/RSS/country.xml",                     # 뉴시스 지방
     "https://www.fnnews.com/rss/new/fn_realnews_finance.xml",     # 파이낸셜뉴스(금융)
     "https://www.fnnews.com/rss/new/fn_realnews_stock.xml",       # 파이낸셜뉴스(증권)
 ]
