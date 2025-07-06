@@ -108,7 +108,7 @@ news_sites = [
     "https://www.ekn.kr/rss/allArticle.xml",                      # 이코노미뉴스
     "https://www.paxnet.co.kr/rss/main.xml",                      # 팍스넷
     "https://www.hankyung.com/it/feed",                           # 한국경제 IT
-    "https://www.enewstoday.co.kr/rss/allArticle.xml",            # 이뉴스투데이(전체)
+    "https://www.enewstoday.co.kr/rss/allArticle.xml",                   # 이뉴스투데이(전체)
     "http://biz.chosun.com/site/data/rss/rss.xml",                # 조선비즈(전체)
     "https://www.sedaily.com/NewsList/GB01",                      # 서울경제 (메인 RSS)
     "https://news.mt.co.kr/mtview/rss",                           # 머니투데이
