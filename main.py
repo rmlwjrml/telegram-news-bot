@@ -145,4 +145,4 @@ def fetch_html_news():
 if __name__ == "__main__":
     while True:
         fetch_html_news()
-        time.sleep(5)
+        time.sleep(20)
