@@ -105,30 +105,21 @@ news_sites = [
     "https://www.kbiznews.co.kr/rss/allArticle.xml",              # 중소기업뉴스
     "https://www.itooza.com/rss/today.xml",                       # 아이투자
     "http://www.kukinews.com/rss/kukiRssAll.xml",                # 쿠키뉴스(전체)
-    "https://www.consumernews.co.kr/rss/allArticle.xml",          # 소비자뉴스
     "https://www.ekn.kr/rss/allArticle.xml",                      # 이코노미뉴스
     "https://www.paxnet.co.kr/rss/main.xml",                      # 팍스넷
     "https://www.hankyung.com/it/feed",                           # 한국경제 IT
     "https://www.enewstoday.co.kr/rss/allArticle.xml",            # 이뉴스투데이(전체)
     "http://biz.chosun.com/site/data/rss/rss.xml",                # 조선비즈(전체)
-    "https://biz.chosun.com/rss/chosunbiz.xml",                   # 조선비즈
     "https://www.sedaily.com/NewsList/GB01",                      # 서울경제 (메인 RSS)
     "https://news.mt.co.kr/mtview/rss",                           # 머니투데이
     "https://news.nate.com/rss/news.xml",                         # 네이트뉴스
     "https://www.zdnet.co.kr/news/news_xml.html",                 # ZDNet Korea
     "https://www.ddaily.co.kr/rss/allArticle.xml",                # 디지털데일리
     "https://www.khan.co.kr/rss/rssdata/kh_news.xml",             # 경향신문(전체)
-    "https://www.asiae.co.kr/news/rss/asia_rss.htm",              # 아시아경제(기타)
-    "https://rss.etnews.com/Section902.xml",                      # 전자신문(뉴스속보)
     "https://rss.etnews.com/Section901.xml",                      # 전자신문(오늘의 뉴스)
-    "https://rss.etnews.com/Section903.xml",                      # 전자신문(인기기사)
-    "https://rss.etnews.com/Section904.xml",                      # 전자신문(추천기사)
-    "http://rss.etnews.co.kr/Section062.xml",                     # 전자신문(에너지 신성장)
     "http://rss.etnews.co.kr/Section023.xml",                     # 전자신문(전국뉴스)
     "https://rss.fnnews.com/rss/new/fn_realnews_all.xml",         # 파이낸셜뉴스(종합)
     "https://rss.edaily.co.kr/edaily_news.xml",                   # 이데일리(전체)
-    "https://www.fnnews.com/rss/new/fn_realnews_finance.xml",     # 파이낸셜뉴스(금융)
-    "https://www.fnnews.com/rss/new/fn_realnews_stock.xml",       # 파이낸셜뉴스(증권)
 ]
 
 def fetch_and_filter_news():
